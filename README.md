@@ -1,6 +1,6 @@
 # Cook Finder
 
-A new Flutter project.
+Project in progress.
 
 ![CookFinder](https://user-images.githubusercontent.com/79495707/146664482-5ba36ea6-36ec-43d8-9a1d-090641e6d7f6.png)
 
